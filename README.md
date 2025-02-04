@@ -77,4 +77,4 @@ We apply bad data elimination and baseline wander removal to remove the baseline
 1. A 3-block CNN architecture with a min-max normalization technique performs well on arrhythmia type classification using ECG and PPG data.
 2. Applying baseline wander removal, targeted data augmentation, and bad data elimination results in a more accurate and robust classification model.
 
-**further improvement**, apply a more generalizable data augmentation technique and generate more augmented data to address the imbalanced class problem.
+**further improvement**, apply a more generalizable data augmentation strategy to generate diverse augmented samples, effectively addressing the class imbalance problem.
